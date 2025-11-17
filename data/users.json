@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Max Mustermann",
+    "email": "max.mustermann@example.com",
+    "address": "Musterstraße 123, 12345 Musterstadt"
+  },
+  {
+    "id": 2,
+    "name": "Anna Schmidt",
+    "email": "anna.schmidt@example.com",
+    "address": "Hauptstraße 45, 54321 Berlin"
+  },
+  {
+    "id": 3,
+    "name": "Peter Müller",
+    "email": "peter.mueller@example.com",
+    "address": "Bahnhofsplatz 7, 10115 Hamburg"
+  },
+  {
+    "id": 4,
+    "name": "Lisa Weber",
+    "email": "lisa.weber@example.com",
+    "address": "Parkweg 12, 80331 München"
+  },
+  {
+    "id": 5,
+    "name": "Thomas Fischer",
+    "email": "thomas.fischer@example.com",
+    "address": "Kirchgasse 8, 20095 Köln"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Becker",
+    "email": "sarah.becker@example.com",
+    "address": "Rosenstraße 22, 30159 Hannover"
+  },
+  {
+    "id": 7,
+    "name": "Michael Wagner",
+    "email": "michael.wagner@example.com",
+    "address": "Lindenallee 33, 70173 Stuttgart"
+  }
+]
+

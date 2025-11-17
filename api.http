@@ -1,0 +1,45 @@
+### API Base URL
+@baseUrl = http://localhost:8000
+
+### Root Endpoint
+GET {{baseUrl}}/
+
+### ============================================
+### USERS
+### ============================================
+
+### Get all users
+GET {{baseUrl}}/users
+
+### Get user by ID
+GET {{baseUrl}}/users/1
+
+### Get user by ID (not found)
+GET {{baseUrl}}/users/999
+
+### ============================================
+### PRODUCTS
+### ============================================
+
+### Get all products
+GET {{baseUrl}}/products
+
+### Get product by ID
+GET {{baseUrl}}/products/1
+
+### Get product by ID (not found)
+GET {{baseUrl}}/products/999
+
+### ============================================
+### ORDERS
+### ============================================
+
+### Get all orders
+GET {{baseUrl}}/orders
+
+### Get order by ID
+GET {{baseUrl}}/orders/1
+
+### Get order by ID (not found)
+GET {{baseUrl}}/orders/999
+
