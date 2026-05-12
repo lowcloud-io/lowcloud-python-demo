@@ -5,7 +5,7 @@ from .routers import users, products, orders
 app = FastAPI(
     title="Python API Demo",
     description="Eine einfache API für User, Product und Order Daten",
-    version="1.0.0"
+    version="1.0.0",
 )
 
 # CORS Middleware
@@ -29,10 +29,5 @@ async def root():
     return {
         "message": "Python API Demo",
         "docs": "/docs",
-        "endpoints": {
-            "users": "/users",
-            "products": "/products",
-            "orders": "/orders"
-        }
+        "endpoints": {"users": "/users", "products": "/products", "orders": "/orders"},
     }
-
